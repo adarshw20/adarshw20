@@ -41,13 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
 </p>
 
----
 
-## 🔧 Currently Working On
-
-- 🧠 `Questify` – A QnA system powered by Transformers & Firebase  
-- 📊 Stock Forecasting Dashboard using ARIMA, Prophet & LSTM  
-- 🦾 AI-powered Assistive Earbud for the visually impaired (prototype)
 
 ---
 
@@ -56,7 +50,7 @@
   <img src="https://img.shields.io/badge/Currently-learning%20NLP-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Reading-AI%20for%20People%20Not%20Robots-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding-Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Listening-to%20lofi%20beats-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Listening-to%2090s%20music-ff69b4?style=for-the-badge" />
 </p>
 
 ---

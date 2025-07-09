@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! 👋</h1>
+<h1 align="center">Hey There! I'm Adarsh Wankhede 👋</h1>
 
 <p align="center">
   I'm <strong>Adarsh Wankhede</strong> — a final-year B.Tech AI/ML student, developer, designer, and dreamer 🚀 <br>

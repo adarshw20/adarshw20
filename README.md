@@ -19,7 +19,7 @@
 
 ---
 
-## 💻 Tech Stack (Icons Only)
+## 💻 Tech Stack 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>

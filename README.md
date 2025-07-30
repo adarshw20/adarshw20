@@ -87,7 +87,7 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/adarshwankhede)  
-- 📬 `adarshwankhede03@gmail.com`  
+- 📬 `adarshwankhede2003@gmail.com`  
 - 🌱 Portfolio (coming soon!)
 
 ---
